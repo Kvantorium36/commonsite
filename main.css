@@ -1,4 +1,5 @@
 body{
+	height: 100%;
 	background:linear-gradient(#c5f6fa,#64c5cc,#3cb2ba,#29a2ab,#1c939c,#0a848c)
 }
 h1{
