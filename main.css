@@ -1,0 +1,38 @@
+body{
+	background:linear-gradient(#c5f6fa,#64c5cc,#3cb2ba,#29a2ab,#1c939c,#0a848c)
+}
+h1{
+	text-align:center;
+}
+.ggg{
+	width: 20%;
+    margin: 10px;
+    float: left;
+}
+.ttt{
+    width: 20%;
+    margin: 10px;
+    float: right;
+}
+img{
+	width:100%
+}
+.qqq{
+	   width: 50%;
+		float: left;
+		margin: 10px;
+}
+.nnn{
+	Width:10%;
+	border-radius: 100%;
+}
+.kkk{
+	 
+}
+.hhh{
+
+}
+.vvv{
+	float: right;
+	Width: 30%;
+}
