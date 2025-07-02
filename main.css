@@ -1,6 +1,5 @@
 body{
-	height: 100%;
-	background:linear-gradient(#c5f6fa,#64c5cc,#3cb2ba,#29a2ab,#1c939c,#0a848c)
+	background:#c5f6fa;
 }
 h1{
 	text-align:center;
@@ -19,9 +18,9 @@ img{
 	width:100%
 }
 .qqq{
-	   width: 50%;
-		float: left;
-		margin: 10px;
+	width: 50%;
+	float: left;
+	margin: 10px;
 }
 .nnn{
 	Width:10%;
